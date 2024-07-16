@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(219, 187, 174);
+}
+
+fieldset {
+    background-color:rgb(206, 193, 193)
+}
+.boton1 {
+    background-color: darkolivegreen;
+    padding: 5px;
+    border: 0px;
+    color: #fff;
+}
+
+
+.colorb1 {
+    color: white;
+}
+.boton2 {
+    background-color: #0090ff;
+    padding: 5px;
+    border: 0px;
+    color: #fff;
+}
+a:hover {
+    color: black;
+
+}

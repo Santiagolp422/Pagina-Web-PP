@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(245, 174, 146);
+}
+
+.boton1 {
+    background-color: darkolivegreen;
+    padding: 5px;
+    border: 0px;
+    color: #fff;
+}
+
+.colorb1 {
+    color: white;
+}
+
+.boton2 {
+    background-color: #0090ff;
+    padding: 5px;
+    border: 0px;
+    color: #fff;
+}
+
+.colorb1{
+    color: white;
+}
+a:hover {
+    color: black;
+}
+
+
